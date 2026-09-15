@@ -1,0 +1,7 @@
+ECG validation summary
+========================
+Samples processed : 15000
+R-peaks detected  : 1
+Final BPM         : 0.0
+Signal quality    : FAIR (score 50/100)
+Plot saved to     : C:\Users\sys102.QNEUROIN\STM32CubeIDE\workspace_1.18.1\ECG\output\ecg_validation.png
