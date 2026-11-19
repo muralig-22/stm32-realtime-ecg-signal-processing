@@ -130,6 +130,7 @@ $ECG,245,1,72,GOOD*...
 ```
 
 ---
+<img width="840" height="504" alt="image" src="https://github.com/user-attachments/assets/bb112452-2f8b-40d9-ad12-32a40d959c34" />
 
 ## Project layout
 
